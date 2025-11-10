@@ -183,6 +183,7 @@ highlighter : rouge
 permalink   : date
 
 exclude:
+  - about.md
   - CHANGELOG.md
   - HOW_TO_RELEASE.md
   - Gemfile
