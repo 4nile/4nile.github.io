@@ -1,1 +1,9 @@
-{{ site.posts.last }}
+---
+layout: page
+type: article
+---
+
+{%- include snippets/assign.html
+  target = site.posts.last
+  source0=layout.sharing source1=page.sharing -%}
+{%- assign _sharing = __return -%}
