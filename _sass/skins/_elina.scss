@@ -44,10 +44,10 @@ $footer-background: $main-color-2;
 
 // border and shadow colors
 $border-color:     $main-color-2;
-$border-color-l:   mix(#000, $background-color, 10%);
+$border-color-l:   mix($main-color-2, $background-color, 40%);
 $decorate-color:   rgba(#000, .1);
-$mask-color:       rgba(#000, .9);
-$select-color:     rgba($main-color-3, .5);
+$mask-color:       $main-color-3;
+$select-color:     rgba($main-color-3, .2);
 
 // function colors
 $green:           #52c41a;
@@ -57,7 +57,7 @@ $red:             #f5222d;
 $text-color-function: #fff;
 
 // logo colors
-$mail-color:       #0072c5;
+$mail-color:       $main-color-1;
 $facebook-color:   #4267b2;
 $twitter-color:    #1da1f2;
 $weibo-color:      #e6162d;
