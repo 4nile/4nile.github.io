@@ -6,6 +6,7 @@
   }
   header, h1 {
     display: inline;
+    color: #000;
   }
   h1 {
     word-wrap: break-word;
@@ -31,6 +32,7 @@
   }
   .overlay__excerpt {
     font-size: map-get($base, font-size-h3-xl);
+    color: #000;
     @include media-breakpoint-down(lg) {
       font-size: map-get($base, font-size-h3-lg);
     }
