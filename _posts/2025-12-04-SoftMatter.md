@@ -8,7 +8,7 @@ article_header:
   background_color: '#ffffff'
   background_image: 
     gradient: 'linear-gradient(135deg, rgba(0, 175, 197 , .4), rgba(255, 228, 47, .4))'
-    src: assets/images/novweek2/abstract.png
+    src: assets/images/cover_srgb.png
 ---
 
 I am extremely pleased to announce I had the opportunity to draw a back cover to accompany my paper in Soft Matter!
