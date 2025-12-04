@@ -1,7 +1,7 @@
 ---
 layout: article
 title: A back cover for Soft Matter
-cover: assets/images/cover_srgb.tif
+cover: assets/images/cover_srgb.png
 article_header:
   type: overlay
   theme: light
