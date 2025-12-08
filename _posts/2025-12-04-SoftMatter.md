@@ -16,4 +16,4 @@ I am extremely pleased to announce I had the opportunity to draw a back cover to
 
 The paper is in open access for the next few days, so jump on the occasion to read it here! [DOI: 10.1039/D5SM00973A](https://pubs.rsc.org/en/Content/ArticleLanding/2025/SM/D5SM00973A)
 
-<img class="image" src="../assets/images/softmatbackcover.png"/>
+<img class="image" src="assets/images/softmatbackcover.png"/>
