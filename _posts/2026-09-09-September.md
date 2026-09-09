@@ -10,13 +10,6 @@ article_header:
 Hello! Between working on two still-secret projects, preparing the coming of my very first PhD student, and presenting my reserach at EMMC20 this spring whilst also meeting a whole new community, I have had little time for this blog. So much great science to catch up on!
 
 <!--more-->
-[//]: <> (<h2>News and opinion pieces</h2>)
-[//]: <> (<h3>Another huge blow to trust in science and medicine with a tampered Alzheimer's drug clinical trial</h3>)
-
-
-[//]: <> (> Charles Piller, *Science*, 2026)
-
-[//]: <> (This story is a tragic one at many levels, between the loss of trust in medicine, the patients that were not treated for their disease, the loss of millions of dollars, and most dramatic of all, the fact that this is not an isolated case. *Science* conducts an investigation of clinical trials in the Southern USA with some chilling constatation on the valdity of their results. Transparency over the "how" is as important if not more as it is to show string results. )
 
 
 <h2>Scientific literature</h2>
