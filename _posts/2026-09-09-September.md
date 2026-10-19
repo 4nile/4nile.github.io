@@ -1,6 +1,7 @@
 ---
 layout: article
 title: September 2026
+cover: https://physics.aps.org/assets/10.1103/Physics.19.108/figure/1/thumb
 article_header:
   type: overlay
   theme: light
